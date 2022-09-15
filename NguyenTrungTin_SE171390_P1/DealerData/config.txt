@@ -1,3 +1,0 @@
-File of accounts:accounts.txt
-File of dealers:dealers.txt
-File of delivery notes:deliveries.txt
